@@ -1,0 +1,15 @@
+.box {
+      width: 200px;
+      border: 2px solid blue;
+      margin: 2px; 
+      padding: 2px; 
+      text-align: center;
+      font-family: sans-serif;
+      border-radius: 10px;
+    }
+   h4 span{
+      color: red;
+
+    }
+    
+
